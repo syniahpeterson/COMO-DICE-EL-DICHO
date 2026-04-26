@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "dev": "cd como-dice-el-dicho && npm run dev",
+    "build": "cd como-dice-el-dicho && npm run build",
+    "start": "cd como-dice-el-dicho && npm run preview"
+  },
+  "dependencies": {
+    "@react-icons/all-files": "^4.1.0"
+  }
+}
